@@ -1,2 +1,0 @@
-# TaxCalculator
-Tax Calculator
